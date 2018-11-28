@@ -1,0 +1,1 @@
+<?php header( 'Location: /javasnake.neocities.org/cookie/index.html' ) ;  ?>
